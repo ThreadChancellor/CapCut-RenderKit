@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## 📥 Download
+
 
 <img width="829" height="698" alt="image" src="https://github.com/user-attachments/assets/05511be3-b05d-4187-b63d-1d9317a2fc30" />
 
